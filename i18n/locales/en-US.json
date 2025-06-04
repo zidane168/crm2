@@ -1,0 +1,46 @@
+{
+    "welcome": "Welcome to NuxtJS nuxt/ui :  ^3.1.0 ,  Nuxt 3.16.2",
+    "description": "This is a simple example of i18n in Nuxt.js.",
+
+   "home": {
+        "title": "Support consulting and building ERP software, CMS, Recruitment software, All in One - Effective Customer, Human Resources and Finance Management!",
+        "signal": "Improve business performance with comprehensive management solutions: professional customer, transparent employee management and accurate financial tracking.",
+        "benefit": {
+            "1": "Effective Customer Management: Easily manage and access customer information, including name, phone number, email, date of birth and important notes.",
+            "2": "Automatic Reminder system: automatically reminds important events such as customer birthdays, helping to maintain good relationships.",
+            "3": "Employee Management: Effective and accurate employee management.",
+            "4": "Income and Expenditure Statistics: Record and classify the company's income and expenditure, with specific reasons can, helping to manage finances transparently. ",
+            "5": "Smart Report: Provides detailed reports on business performance, finance and human resources, supporting strategic decision making. "
+        },
+        "ui_friendly": {
+            "1": "Designed with an intuitive interface, easy to use for all users.",
+            "2": "Compatible on many devices: computers, tablets, mobile phones.",
+            "3": "Fast processing speed, ensuring a smooth experience."
+        }
+    },
+
+    "menu" : {
+        "feature": "Our feature",  
+        "product": "Product",
+        "contact": "Contact me"
+    },
+    "title": {
+        "product": "ProdUCT AND CLIENT",
+        "contact": "CONTACT ME NOW",
+        "benefit": "OUR FEATURE",
+        "ui": "FRIENDLY UI & EASY USE"
+    },
+    "footer": {
+        "contact": "Contact",
+        "policy_privacy": "Policy and privacy",
+        "phone_zalo": "Phone/Zalo"
+    },
+    "form": {
+        "name": "Input your name here",
+        "email": "Input your email here, so we can contact with you soon",
+        "phone": "Input your phone here, so we can contact with you soon",
+        "description": "To avoid wasting your valuable time, please describe your business here, and we will contact you as soon as possible",
+        "submit": "Contact me now"
+    }
+ 
+}

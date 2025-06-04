@@ -1,0 +1,12 @@
+{
+    "welcome": "歡迎來到 NuxtJS nuxt/ui : 3.1.0,  Nuxt 3.16.2",
+    "description": "這是i18n在 Nuxt 18 裏",
+
+    "form": {
+        "name": "名稱",
+        "email": "電郵郵件",
+        "phone": "電話聯繫",
+        "description": "為了避免浪費您的寶貴時間，請在此描述您的業務和需求，我們將盡快與您聯繫。",
+        "submit": "聯繫我"
+    }
+}

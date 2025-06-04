@@ -1,0 +1,48 @@
+{
+    "welcome": "Chào mừng NuxtJS nuxt/ui :  ^3.1.0 ,  Nuxt 3.16.2",
+    "description": "Đây là một ví dụ về i18n",
+
+    "home": {
+        "title": "Hỗ trợ tư vấn và xây dựng phần mềm ERP, CMS, Phần mềm tuyển dụng, Tất Cả Trong Một – Quản Lý Khách Hàng, Nhân Sự và Tài Chính Hiệu Quả!",
+        "signal": "Nâng cao hiệu suất doanh nghiệp với giải pháp quản lý toàn diện: chăm sóc khách hàng chuyên nghiệp, quản lý nhân viên minh bạch và theo dõi tài chính chính xác.",
+        "benefit": {
+            "1": "Quản Lý Khách Hàng Hiệu Quả: Lưu trữ và truy cập thông tin khách hàng một cách dễ dàng, bao gồm tên, số điện thoại, email, ngày sinh và ghi chú quan trọng.",
+            "2": "Nhắc Nhở Tự Động: Hệ thống tự động nhắc nhở các sự kiện quan trọng như sinh nhật khách hàng, giúp duy trì mối quan hệ tốt đẹp.",
+            "3": "Quản Lý Nhân Viên: Quản lý nhân viên hiệu quả, chính xác.",
+            "4": "Thống Kê Thu Chi: Ghi nhận và phân loại các khoản thu chi của công ty, kèm theo lý do cụ thể, giúp quản lý tài chính minh bạch. ",
+            "5": "Báo Cáo Thông Minh: Cung cấp báo cáo chi tiết về hiệu suất kinh doanh, tài chính và nhân sự, hỗ trợ ra quyết định chiến lược. "
+        },
+        "ui_friendly": {
+            "1": "Thiết kế giao diện trực quan, dễ sử dụng cho mọi đối tượng.",
+            "2": "Tương thích trên nhiều thiết bị: máy tính, tablet, điện thoại di động.",
+            "3": "Tốc độ xử lý nhanh, đảm bảo trải nghiệm mượt mà."
+        }
+    },
+
+    "menu" : {
+        "feature": "Tính năng",  
+        "product": "Sản phẩm",
+        "contact": "Liên hệ"
+    },
+
+    "title": {
+        "product": "Các sản phẩm và khách hàng",
+        "contact": "LIÊN HỆ NGAY",
+        "benefit": "Lợi Ích Khi Sử Dụng Phần Mềm",
+        "ui": "Giao Diện Thân Thiện & Trải Nghiệm Tuyệt Vời"
+    },
+
+    "footer": {
+        "contact": "Liên hệ",
+        "policy_privacy": "Chính sách bảo mật",
+        "phone_zalo": "Số điện thoại/Zalo"
+    },
+
+    "form": {
+        "name": "Xưng hô của anh chị?",
+        "email": "Email",
+        "phone": "Số điện thoại",
+        "description": "Để tránh mất thời gian quý báu của anh chị, Hãy mô tả về nghiệp vụ của anh chị tại đây, chúng tôi sẽ liên lạc với quý anh chị trong thời gian sớm nhất",
+        "submit": "Liên hệ tôi ngay"
+    }
+}
